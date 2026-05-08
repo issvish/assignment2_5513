@@ -8,6 +8,12 @@ format: html
 
 This is my example amd for assignment 2 of ETC5513
 
+<<<<<<< HEAD
 ## Edit 
 
 Making an edit for the main branch. Made changes from test branch
+=======
+## Edit
+
+Making an edit for the test branch
+>>>>>>> testbranch
